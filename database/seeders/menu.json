@@ -1,0 +1,202 @@
+[
+    {
+        "id": 1,
+        "name": "Margherita",
+        "image": "images/Margherita.png",
+        "type": "pizza",
+        "toppings": ["paradicsomszósz", "mozzarella sajt", "bazsalikom"],
+        "price": 2800,
+        "popularity": 15,
+        "active": true
+    },
+    {
+        "id": 2,
+        "name": "Hawaii",
+        "image": "images/Hawaii.png",
+        "type": "pizza",
+        "toppings": ["paradicsomszósz", "mozzarella sajt", "sonka", "ananász"],
+        "price": 3200,
+        "popularity": 23,
+        "active": true
+    },
+    {
+        "id": 3,
+        "name": "Pepperoni",
+        "image": "images/Pepperoni.png",
+        "type": "pizza",
+        "toppings": ["paradicsomszósz", "mozzarella sajt", "pepperoni"],
+        "price": 3500,
+        "popularity": 28,
+        "active": true
+    },
+    {
+        "id": 4,
+        "name": "Quattro Formaggi",
+        "image": "images/Quattro_Formaggi.png",
+        "type": "pizza",
+        "toppings": ["paradicsomszósz", "mozzarella", "gorgonzola", "parmezán", "cheddar"],
+        "price": 3900,
+        "popularity": 18,
+        "active": true
+    },
+    {
+        "id": 5,
+        "name": "Capricciosa",
+        "image": "images/Capricciosa.png",
+        "type": "pizza",
+        "toppings": ["paradicsomszósz", "mozzarella sajt", "sonka", "gomba", "articsóka"],
+        "price": 3300,
+        "popularity": 12,
+        "active": true
+    },
+    {
+        "id": 6,
+        "name": "Diavola",
+        "image": "images/Diavola.png",
+        "type": "pizza",
+        "toppings": ["paradicsomszósz", "mozzarella sajt", "csípős kolbász", "chili"],
+        "price": 3400,
+        "popularity": 25,
+        "active": true
+    },
+    {
+        "id": 7,
+        "name": "Prosciutto e Funghi",
+        "image": "images/Prosciutto_e_Funghi.png",
+        "type": "pizza",
+        "toppings": ["paradicsomszósz", "mozzarella sajt", "sonka", "gomba"],
+        "price": 3200,
+        "popularity": 20,
+        "active": true
+    },
+    {
+        "id": 8,
+        "name": "Tonno e Cipolla",
+        "image": "images/Tonno_e_Cipolla.png",
+        "type": "pizza",
+        "toppings": ["paradicsomszósz", "mozzarella sajt", "tonhal", "vöröshagyma"],
+        "price": 3400,
+        "popularity": 17,
+        "active": true
+    },
+    {
+        "id": 9,
+        "name": "Vegetariana",
+        "image": "images/Vegetariana.png",
+        "type": "pizza",
+        "toppings": ["paradicsomszósz", "mozzarella sajt", "paprika", "cukkini", "padlizsán"],
+        "price": 3100,
+        "popularity": 22,
+        "active": true
+    },
+    {
+        "id": 10,
+        "name": "Bolognese",
+        "image": "images/Bolognese.png",
+        "type": "pizza",
+        "toppings": ["bolognai szósz", "mozzarella sajt", "parmezán"],
+        "price": 3600,
+        "popularity": 27,
+        "active": true
+    },
+    {
+        "id": 11,
+        "name": "Mexicana",
+        "image": "images/Mexicana.png",
+        "type": "pizza",
+        "toppings": ["paradicsomszósz", "mozzarella sajt", "csípős paprika", "kukorica", "bab"],
+        "price": 3700,
+        "popularity": 24,
+        "active": true
+    },
+    {
+        "id": 12,
+        "name": "Pesto",
+        "image": "images/Pesto.png",
+        "type": "pizza",
+        "toppings": ["pesto szósz", "mozzarella sajt", "paradicsom", "parmezán"],
+        "price": 3200,
+        "popularity": 10,
+        "active": true
+    },
+    {
+        "id": 13,
+        "name": "Rustica",
+        "image": "images/Rustica.png",
+        "type": "pizza",
+        "toppings": ["paradicsomszósz", "mozzarella sajt", "szalámi", "gomba", "parmezán"],
+        "price": 3800,
+        "popularity": 21,
+        "active": true
+    },
+    {
+        "id": 14,
+        "name": "Salsiccia",
+        "image": "images/Salsiccia.png",
+        "type": "pizza",
+        "toppings": ["paradicsomszósz", "mozzarella sajt", "olasz kolbász", "paprika"],
+        "price": 3500,
+        "popularity": 19,
+        "active": true
+    },
+    {
+        "id": 15,
+        "name": "Frutti di Mare",
+        "image": "images/Frutti_di_Mare.png",
+        "type": "pizza",
+        "toppings": ["paradicsomszósz", "mozzarella sajt", "tenger gyümölcsei"],
+        "price": 5000,
+        "popularity": 13,
+        "active": true
+    },
+    {
+        "id": 16,
+        "name": "Napoli",
+        "image": "images/Napoli.png",
+        "type": "pizza",
+        "toppings": ["paradicsomszósz", "mozzarella sajt", "szardella", "kapribogyó", "olívabogyó"],
+        "price": 3400,
+        "popularity": 16,
+        "active": true
+    },
+    {
+        "id": 17,
+        "name": "Bufalina",
+        "image": "images/Bufalina.png",
+        "type": "pizza",
+        "toppings": ["paradicsomszósz", "bivaly mozzarella", "bazsalikom"],
+        "price": 3900,
+        "popularity": 26,
+        "active": true
+    },
+    {
+        "id": 18,
+        "name": "Parmigiana",
+        "image": "images/Parmigiana.png",
+        "type": "pizza",
+        "toppings": ["paradicsomszósz", "mozzarella sajt", "padlizsán", "parmezán"],
+        "price": 3000,
+        "popularity": 11,
+        "active": true
+    },
+    {
+        "id": 19,
+        "name": "Funghi",
+        "image": "images/Funghi.png",
+        "type": "pizza",
+        "toppings": ["paradicsomszósz", "mozzarella sajt", "gomba"],
+        "price": 2900,
+        "popularity": 14,
+        "active": true
+    },
+    {
+        "id": 20,
+        "name": "Gorgonzola",
+        "image": "images/Gorgonzola.png",
+        "type": "pizza",
+        "toppings": ["paradicsomszósz", "mozzarella sajt", "gorgonzola"],
+        "price": 3500,
+        "popularity": 29,
+        "active": true
+    }
+]
